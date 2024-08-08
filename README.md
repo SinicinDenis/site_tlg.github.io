@@ -6,7 +6,7 @@
 <body>
   <div id="main">
     <hi>TLG TEST 1</hi>
-    <img src="https://fuseservers.ru/wp-content/uploads/e/6/5/e6582e3f04d623bb4823f869c9a53c5d.png">
+    <img src="https://img.freepik.com/premium-photo/whimsical-puppy-kitten-blind-box-toy-3d-design-studio-lighting_1296644-15060.jpg?w=740">
     <p>Test Test Test Test</p>
     <button>KNOPKIS</button>
 </body>
