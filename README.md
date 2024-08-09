@@ -14,8 +14,8 @@
   <p><a href="#">Подробнее...</a></p>
 
   <!-- Картинки -->
-  <img src="https://vk.com/sin_dens?z=photo1049922_457242273%2Fphoto_feed1049922.jpg" alt="Image 1">
-  <img src="https://vk.com/sin_dens?z=photo1049922_457242272%2Fphoto_feed1049922.jpg" alt="Image 2">
+  <img src="https://vk.com/sin_dens?z=photo1049922_457242273%2Fphoto_feed1049922" alt="Image 1">
+  <img src="https://vk.com/sin_dens?z=photo1049922_457242272%2Fphoto_feed1049922" alt="Image 2">
 
   <!-- Кнопки -->
   <button>Кнопка 1</button>
