@@ -17,7 +17,7 @@
 </head>
 <body>
 
-<canvas id="gameCanvas"></canvas>
+<canvas id="gameCanvas" width="400" height="400"></canvas>
 
 <script>
   const canvas = document.getElementById('gameCanvas');
