@@ -21,9 +21,11 @@
 
   <!-- Кнопки -->
   <a href="index1.html">
-  <button>Перейти на другую страницу</button>
+  <button>Матрица  !!!!!!</button>
   </a>
-  <button>Кнопка 1</button>
+  <a href="index2.html">
+  <button>Игра !!!!!</button>
+  </a>
   <button>Кнопка 2</button>
 </div>
 
