@@ -23,7 +23,7 @@
   <a href="index1.html">
   <button>Матрица  !!!!!!</button>
   </a>
-  <a href="index2.html">
+  <a href="html/main.html">
   <button>Игра !!!!!</button>
   </a>
   <button>Кнопка 2</button>
