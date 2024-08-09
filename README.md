@@ -13,9 +13,9 @@
   <p><a href="#">Подробнее...</a></p>
 
   <!-- Картинки -->
-  <img src="y_2024m_6d_25h_14m_39s_53.jpg" alt="Image 1" width=200>
-  <img src="y_2024m_6d_25h_14m_42s_46.jpg" alt="Image 2" width=200>
-  <img src="y_2024m_6d_25h_14m_46s_23.jpg" alt="Image 2" width=200>
+  <img src="y_2024m_6d_25h_14m_39s_53.jpg" alt="Image 1" width=100>
+  <img src="y_2024m_6d_25h_14m_42s_46.jpg" alt="Image 2" width=100>
+  <img src="y_2024m_6d_25h_14m_46s_23.jpg" alt="Image 2" width=100>
   
 
 
