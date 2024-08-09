@@ -20,7 +20,7 @@
 
 
   <!-- Кнопки -->
-  <a href="index.html" target="_blank">
+  <a href="index1.html" target="_blank">
   <button>Перейти на другую страницу</button>
   </a>
   <button>Кнопка 1</button>
